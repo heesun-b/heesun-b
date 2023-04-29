@@ -3,10 +3,6 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 </br></br>
 [![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)]([https://highfalutin-giant-304.notion.site/cf923af656ff4cd294bdcadbca1fe80a](https://blue-run-083.notion.site/HEESUN-d622a9b5d4b041cf8c61cda57d247a23))
 
-<!-- <p align="center">
-  <img alt="Coder Image" src="https://raw.githubusercontent.com/JinhuiStudy/JinhuiStudy/master/assets/code.gif">
-</p> -->
-
 ---
 
 <!--START_SECTION:Skills & Endorsements-->
