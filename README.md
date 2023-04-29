@@ -4,6 +4,11 @@ Hi I'm Park Jinhui and I'm working in Busan with development.
 [![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)](https://www.notion.so/HEESUN-d622a9b5d4b041cf8c61cda57d247a23)
 
 ---
+<p align="center">
+  <img alt="Coder Image" src="https://raw.githubusercontent.com/heesun-b/heesun-b/master/code.gif">
+</p> 
+
+
 
 <!--START_SECTION:Skills & Endorsements-->
 ### Skills & Reference
