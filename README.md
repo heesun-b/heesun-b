@@ -22,6 +22,7 @@ Hi I'm Jang Heesun and I'm working in Busan with development.
 
 ### Side Project
 
+<!--
 1. [Conterence](https://github.com/JinhuiStudy/spring-boot-project-conference)
 	1. [Grapes Video[Vimeo] Plugin](https://github.com/JinhuiStudy/javascript-grapesjs-video-embed-manager-custom)
 	2. [Grapes Basic Block Plugin](https://github.com/JinhuiStudy/javascript-grapesjs-blocks-basic-custom)
@@ -29,8 +30,6 @@ Hi I'm Jang Heesun and I'm working in Busan with development.
 	1. [Flutter](https://github.com/JinhuiStudy/flutter-project-codal)
 	2. [SpringBoot - RestAPI](https://github.com/JinhuiStudy/spring-boot-project-codal)
 	3. [React](https://github.com/JinhuiStudy/react-project-codal)
-    
-
-
+-->
 
 
