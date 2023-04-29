@@ -1,4 +1,4 @@
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 Hi I'm Jang Heesun. Welcome to my GitHub profile!
 </br></br>
 [![NOTION](https://img.shields.io/badge/-NOTION-222222?style=for-the-badge&logo=NOTION)](https://www.notion.so/HEESUN-d622a9b5d4b041cf8c61cda57d247a23)
